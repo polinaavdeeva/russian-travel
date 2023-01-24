@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 @import url(../vendor/normallize.css);
+=======
+@import url(../vendor/normalize.css);
+>>>>>>> 61b7255fa1ec03d94a65e6bf31bc9205160ae87c
 @import url(../vendor/fonts/fonts.css);
 @import url(../blocks/page/page.css);
