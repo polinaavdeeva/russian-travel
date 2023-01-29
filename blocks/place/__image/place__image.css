@@ -1,0 +1,14 @@
+.place_image {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+@media screen and (max-width: 768px) {
+    .place_image {
+        height: 340px;
+        display: flex;
+        flex-direction: column;
+        align-self: flex-start;
+    }
+}
